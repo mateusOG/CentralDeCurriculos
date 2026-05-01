@@ -1,0 +1,26 @@
+{
+  "name": "centraldecurriculos",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mateusOG/CentralDeCurriculos#readme",
+  "bugs": {
+    "url": "https://github.com/mateusOG/CentralDeCurriculos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusOG/CentralDeCurriculos.git"
+  },
+  "license": "ISC",
+  "author": "Mateus Oliveira Gil",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.5.15",
+    "react": "^18.2.0",
+    "react-dom": "^18.3.1"
+  }
+}

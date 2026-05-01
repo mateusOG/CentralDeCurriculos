@@ -1,4 +1,4 @@
-export default function Curriculum() {
+export default function CurriculumBackAnd() {
   return (
     <div className="container">
       <header>
@@ -37,10 +37,9 @@ export default function Curriculum() {
         <h2>Objetivo Profissional</h2>
         <div className="section-content">
           <p>
-            Atuar como <strong>Desenvolvedor Full Stack</strong> ou
-            <strong> Testador de Software</strong>, utilizando competências em
-            desenvolvimento web e qualidade de software para criar sistemas
-            eficientes, robustos e escaláveis.
+            Atuar como <strong>Desenvolvedor Full Stack</strong>. Focado em
+            aplicar metodologias ágeis e testes automatizados para garantir a
+            entrega de sistemas eficientes, robustos e de alta escalabilidade.
           </p>
         </div>
       </section>
@@ -50,10 +49,9 @@ export default function Curriculum() {
         <div className="section-content">
           <p>
             Estudante de Análise e Desenvolvimento de Sistemas com sólida base
-            em JavaScript, React e Node.js. Experiência prática com testes
-            automatizados (Jest/TDD) e infraestrutura moderna (Docker/GitHub
-            Actions). Focado na entrega de código limpo e soluções de alta
-            performance.
+            técnica em ecossistemas JavaScript (React, Node.js, Next.js).
+            Experiência prática com testes automatizados utilizando Jest/TDD e
+            gerenciamento de infraestrutura com Docker e GitHub Actions.
           </p>
         </div>
       </section>
